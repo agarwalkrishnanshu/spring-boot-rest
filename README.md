@@ -1,1 +1,1 @@
-# spring-boot-rest-security
+# spring-boot-rest
